@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# React-Login-Register-page
+This project is a React-based web application that provides a simple and intuitive user interface for user authentication, including both login and registration functionalities. The goal of this project is to demonstrate the use of React for building dynamic, responsive, and user-friendly forms with client-side validation.
+>>>>>>> 13b2d5bc1187b7d62fde05d4f1438cabf88d07ad
